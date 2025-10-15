@@ -1,0 +1,11 @@
+{
+  "name": "Xi Jinping",
+  "symbol": "XIP",
+  "image": "https://raw.githubusercontent.com/yourusername/token-assets/refs/heads/main/logo.png",
+  "description": "Communist Coin",
+  "attributes": [
+    { "trait_type": "Type", "value": "Meme Token" },
+    { "trait_type": "Chain", "value": "Solana" },
+    { "trait_type": "Launch Year", "value": "2025" }
+  ]
+}
