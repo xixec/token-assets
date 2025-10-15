@@ -1,7 +1,7 @@
 {
   "name": "Xi Jinping",
   "symbol": "XIP",
-  "image": "https://raw.githubusercontent.com/yourusername/token-assets/refs/heads/main/logo.png",
+  "image": "https://raw.githubusercontent.com/xixec/token-assets/main/xiping.jpg",
   "description": "Communist Coin",
   "attributes": [
     { "trait_type": "Type", "value": "Meme Token" },
